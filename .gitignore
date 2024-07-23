@@ -1,0 +1,9 @@
+.DS_Store
+.angular
+.env
+.idea
+.nx
+/dist
+/node_modules
+/test-reports
+/tmp
